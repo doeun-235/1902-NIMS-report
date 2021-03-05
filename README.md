@@ -1,5 +1,10 @@
 # 1902-NIMS-report
 
+## Abstract
+
+I did two project as assignment in 2019 NIMS(National Institute for Mathematical Sciences) winter workshop. The first one is classifing iris data with decision tree and random forest. Error rates of two algorithms were both low and data set was not that big, so I judged algorithms are both suit for the classification.
+The second one is making suggestion system for house from public data. I made norm for reckoning how much far from the codition for finding houses, suggested some houses and marked the houses on the map. Since the datasets I used don't include specific address of houses, the code functions as suggestion for streets.
+
 ## report 01
 
 Iris 데이터에 랜덤 포레스트를 적용시켜 보았습니다. 하지만 워낙 데이터 개수가 적고 트리 방식으로도 정확도 96%, 오류가 발생한 데이터 6개였기 때문에, 유의미한 차이가 보이지는 않았습니다.
